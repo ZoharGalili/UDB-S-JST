@@ -1,53 +1,26 @@
-# Unified Daughterboard S Series
-
-![banner](https://github.com/Unified-Daughterboard/UDB-S/raw/main/assets/S1-Banner-Img.jpg)
-
-## Introduction
-The Unified Daughterboard Project is an open standard to unify the USB daughterboards used in custom mechanical keyboard projects.  
-The Unified Daughterboard allows designers to easily implementing electrical protection via a tested proven PCB, and allows users to maintain and repair their keyboards in the future.  
-  
-For more details on the Unified Daughterboard project, see the [main website](https://unified-daughterboard.github.io/).
+# Modified Unified Daughterboard S 
 
 
-## S Series
+## Changes 
 
-The S1 variant was developed as an entirely new form factor from the older C3 version based on real-world production usage and designer input.
-
-- "Wide and narrow" 40mm wide x 9mm deep x 1.6mm thick form factor
-    - Avoids obstacles such as weights commonly found in custom keyboards
-    - Mountable both right-side-up and upside-down
-- 2 x M3 mounting points 
-    - Fewer large screw taps reduce thread defect issues and assembly effort
-- Easy and inexpensive to source via JLCPCB or similar
-- Large DB corner radii which allow keyboard cases to be milled at a large inner radius
-- ESD protection, overcurrent protection, overvoltage protection, shielding noise decoupling, and single-path grounding to chassis functionality
-- New Molex Pico-EZmate Connector, replacing the JST-SH on previous versions
-- 1:1 connector pinout to retain compatibility with existing PCBs
+- switched to the reliable JST connector.
+- replaced esd chip to the PRTR5V.
+- changed the fotprint to 0805 and SOD123.
+- switched to a 2 layer pcb.
 
 
-## Using the S series uDB in your design
-Please [visit the docs](https://unified-daughterboard.github.io/) for detailed implementation references and notices.  
+## Why Change?
 
+i made a custom keyboard design a while ago with the UDS-S and i hand soldered all the components myself because im broke. 
+there were a few problems i encountered with the doughterboard:
+- the board was extremely difficult to solder. expecially the tiny esd chip.
+- the ezmate molex connector is trash. after soldering up the board the connector kept snapping off the board.
+i dont know why the connector kept snapping off but the fact that it pulls up to dissconnect only encourages its snapping off.
+- i switched to 2 layer just because i didnt use more than the 2 layers when routing.
+
+
+honestly i dont know if ill make this design but well see...
 
 ## Previews
-![Render](https://github.com/Unified-Daughterboard/UDB-S/raw/main/assets/front.jpg)
-![Render](https://github.com/Unified-Daughterboard/UDB-S/raw/main/assets/rear.jpg)
-
-
-## Credits
-- [Gondolindrim](https://github.com/Gondolindrim)
-- [hineybush](https://hineybush.com/)
-- [ai03](https://ai03.com/)
-- [GEON](https://geon.works/)
-- [Sleepdealer](https://sleepdealer.xyz)
-- [Xelus](https://xelus.me)
-- [James (AKB)](https://alchemistkeyboards.com/)
-- [kkatano](https://github.com/kkatano)
-- [ToastyStoemp](https://vwolf.be)
-- [Upas](https://cannonkeys.com)
-
-C3 Unified:
-- [Wilba](https://wilba.tech)
-- Xondat
-- [aeryxz](https://github.com/aeryxz)
-- [Maximillian](https://github.com/Maximillian)
+![Render](https://github.com/Unified-Daughterboard/UDB-S_JST/raw/main/assets/front.jpg)
+![Render](https://github.com/Unified-Daughterboard/UDB-S-JST/raw/main/assets/rear.jpg)
