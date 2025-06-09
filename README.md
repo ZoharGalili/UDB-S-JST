@@ -22,5 +22,5 @@ i dont know why the connector kept snapping off but the fact that it pulls up to
 honestly i dont know if ill make this design but well see...
 
 ## Previews
-![Render](https://github.com/Unified-Daughterboard/UDB-S_JST/raw/main/assets/front.jpg)
-![Render](https://github.com/Unified-Daughterboard/UDB-S-JST/raw/main/assets/rear.jpg)
+![Render](https://github.com/ZoharGalili/UDB-S-JST/blob/main/assets/front.jpg)
+![Render](https://github.com/ZoharGalili/UDB-S-JST/blob/main/assets/rear.jpg)
