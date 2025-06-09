@@ -1082,7 +1082,7 @@
 			(net 1 "GND")
 			(pinfunction "MountPin")
 			(pintype "passive")
-			(uuid "20e2f138-9d38-411d-8d89-425e09c8dff5")
+			(uuid "6b3d2495-7163-4b8c-98ce-37e69b142094")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.step"
