@@ -3404,7 +3404,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C1017"
+		(property "LCSC Part Number" "C21286"
 			(at 122.555 103.505 0)
 			(effects
 				(font
@@ -3825,6 +3825,42 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 176.53 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 176.53 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C78442"
+			(at 176.53 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 176.53 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68fddca7-60a2-44d7-9840-b77b5c0b9920")
 		)
@@ -4118,7 +4154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 223.52 50.8 0)
 			(effects
 				(font
@@ -4162,7 +4198,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C502546"
+		(property "LCSC Part Number" "C85649"
 			(at 228.6 50.8 0)
 			(effects
 				(font
@@ -4171,7 +4207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "SOD-523"
+		(property "Package" "SOD-123F"
 			(at 228.6 50.8 0)
 			(effects
 				(font

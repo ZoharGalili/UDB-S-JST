@@ -1,4 +1,4 @@
-26201093784716358
+26204631346183731
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -72057,6 +72057,118 @@ Hotswap footprint for Kailh Choc style switches
 0
 6
 2
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.5u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.25u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.75u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_0deg_1u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.5u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.25u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.75u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_90deg_1u
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_180deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_180deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_270deg_1.75u_STP_1.5
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
+PCM_marbastlib-he
+SW_MX_HE_270deg_1.75u_STP_1.25
+Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
+cherry mx switch hall effect he 
+0
+4
+3
 PCM_marbastlib-hitek
 SW_HiTek_1.5u
 Footprint for Hi-Tek Series 725 ("Space Invader") Switches
@@ -72555,39 +72667,60 @@ LED RGB NeoPixel
 4
 4
 PCM_marbastlib-various
+L_Bourns_SRP6050CA_6.6x6.4mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+PCM_marbastlib-various
+L_Bourns_SRP6060FA_6.6x6.4mm
+Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
+Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+PCM_marbastlib-various
+L_Cenker_CKST353220
+Inductor, Cenker, CKCS3012, 3.0x3.0x1.3mm, https://www.ckcoil.com/file/upload/spae532/2023-07/11/202307110955366446.pdf
+Inductor ckcs
+0
+2
+2
+PCM_marbastlib-various
 Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical
 Molex Pico-EZmate series connector, 78171-0002 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-16
+14
 3
 PCM_marbastlib-various
 Molex_Pico-EZmate_78171-0003_1x03-1MP_P1.20mm_Vertical
 Molex Pico-EZmate series connector, 78171-0003 (http://www.molex.com/pdm_docs/sd/781710003_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-17
+15
 4
 PCM_marbastlib-various
 Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
 Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710004_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-18
+16
 5
 PCM_marbastlib-various
 Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
 Molex Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710005_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-19
+17
 6
 PCM_marbastlib-various
 Molex_Pico-EZmate_78171-5006_1x06-1MP_P1.20mm_Vertical
 Molex Pico-EZmate series connector, 78171-5006 (http://www.molex.com/pdm_docs/sd/781715006_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-20
+18
 7
 PCM_marbastlib-various
 Molex_Pico-EZmate_HC_208294-0020_1x02-1MP_P1.80mm_Vertical
@@ -72622,36 +72755,43 @@ Molex_Pico-EZmate_PLUS_212134-0002_1x02-1MP_P1.00mm_Vertical
 Molex Pico-EZmate series connector, 212134-0002 (http://www.molex.com/pdm_docs/sd/2121340002_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-16
+14
 3
 PCM_marbastlib-various
 Molex_Pico-EZmate_PLUS_212134-0003_1x03-1MP_P1.00mm_Vertical
 Molex Pico-EZmate series connector, 212134-0003 (http://www.molex.com/pdm_docs/sd/2121340003_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-17
+15
 4
 PCM_marbastlib-various
 Molex_Pico-EZmate_PLUS_212134-0004_1x04-1MP_P1.00mm_Vertical
 Molex Pico-EZmate series connector, 212134-0004 (http://www.molex.com/pdm_docs/sd/2121340004_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-18
+16
 5
 PCM_marbastlib-various
 Molex_Pico-EZmate_PLUS_212134-0005_1x05-1MP_P1.00mm_Vertical
 Molex Pico-EZmate series connector, 212134-0005 (http://www.molex.com/pdm_docs/sd/2121340005_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-19
+17
 6
 PCM_marbastlib-various
 Molex_Pico-EZmate_PLUS_212134-0006_1x06-1MP_P1.00mm_Vertical
 Molex Pico-EZmate series connector, 212134-0006 (http://www.molex.com/pdm_docs/sd/2121340006_sd.pdf)
 connector Molex Pico-EZmate side entry
 0
-20
+18
 7
+PCM_marbastlib-various
+PDFN3.3x3.3-8L_2
+
+
+0
+10
+6
 PCM_marbastlib-various
 PNT_RKJXU1210006
 
@@ -72660,11 +72800,25 @@ PNT_RKJXU1210006
 3
 1
 PCM_marbastlib-various
+QFN-13_3x4mm_P0.5mm
+21A, High-Efficiency, Fully Integrated, Synchronous, Boost Converter with Programmable Input Current Limit
+
+0
+13
+13
+PCM_marbastlib-various
+QFN-22_MP2722_2.5x3.5mm_P0.4mm
+QFN, 22pin, Monolithic Power MP2722 https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2722GRH/document_id/10035/
+MPS Monolithic Power QFN 22 battery charging buck boost dc-dc usb-c cc bc1.2
+0
+22
+22
+PCM_marbastlib-various
 QFN-60_EP_7x7_Pitch0.4mm
 QFN-60 package accroding to IS31FL3741A datasheets
 
 0
-158
+86
 61
 PCM_marbastlib-various
 ROT_Alps_EC11E-Switch
@@ -72760,6 +72914,13 @@ usb usb-c 2.0 pd
 PCM_marbastlib-various
 USB_C_Receptacle_HRO_TYPE-C-31-M-14
 USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+PCM_marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-23
+USB Type-C receptacle for USB 2.0 and PD, https://en.krhro.com/Product-Details/719.html
 usb usb-c 2.0 pd
 0
 20
@@ -73177,118 +73338,6 @@ Hotswap footprint for Gateron KS33 switches
 0
 6
 2
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.5u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.25u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.75u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_0deg_1u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.5u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.25u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.75u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_90deg_1u
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_180deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_180deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_270deg_1.75u_STP_1.5
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
-PCM_marbastlib-xp-he
-SW_MX_HE_270deg_1.75u_STP_1.25
-Footprint for Cherry MX style hall effect switches (Gateron Jade) and A110x/MT910xET/HAL9303SO pinout compatible sensors
-cherry mx switch hall effect he 
-0
-4
-3
 PCM_marbastlib-xp-hitek
 SW_HiTek_Mount_1.5u
 Footprint for Hi-Tek Series 725 ("Space Invader") Switches
@@ -74291,40 +74340,12 @@ LED RGB NeoPixel
 4
 4
 PCM_marbastlib-xp-various
-L_Bourns_SRP6050CA_6.6x6.4mm
-Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
-Shielded Inductors Bourns SMD SRP7028A
-0
-2
-2
-PCM_marbastlib-xp-various
-L_Bourns_SRP6060FA_6.6x6.4mm
-Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
-Shielded Inductors Bourns SMD SRP7028A
-0
-2
-2
-PCM_marbastlib-xp-various
-L_Cenker_CKST353220
-Inductor, Cenker, CKCS3012, 3.0x3.0x1.3mm, https://www.ckcoil.com/file/upload/spae532/2023-07/11/202307110955366446.pdf
-Inductor ckcs
-0
-2
-2
-PCM_marbastlib-xp-various
 MAX77751
 3A 1S LiXx battery charging IC with USB (DP/DP + CC) current negotiation and power path
 LiIon LiPo battery charger management usb power path switch-mode step-down buck
 0
 24
 24
-PCM_marbastlib-xp-various
-PDFN3.3x3.3-8L_2
-
-
-0
-10
-6
 PCM_marbastlib-xp-various
 PDFN3.3x3.3_EP
 
@@ -74340,19 +74361,12 @@ psp joystick analog
 6
 5
 PCM_marbastlib-xp-various
-QFN-13_3x4mm_P0.5mm
-21A, High-Efficiency, Fully Integrated, Synchronous, Boost Converter with Programmable Input Current Limit
+QFN-44_EP_5x5_Pitch0.4mm
+
 
 0
-13
-13
-PCM_marbastlib-xp-various
-QFN-22_MP2722_2.5x3.5mm_P0.4mm
-QFN, 22pin, Monolithic Power MP2722 https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2722GRH/document_id/10035/
-MPS Monolithic Power QFN 22 battery charging buck boost dc-dc usb-c cc bc1.2
-0
-26
-22
+66
+45
 PCM_marbastlib-xp-various
 STM32WB5MMG
 Bluetooth capable ARM Microcontroller
@@ -74360,13 +74374,6 @@ stm32 arm wireless bluetooth low energy ble zigbee
 0
 86
 86
-PCM_marbastlib-xp-various
-USB_C_Receptacle_HRO_TYPE-C-31-M-23
-USB Type-C receptacle for USB 2.0 and PD, https://en.krhro.com/Product-Details/719.html
-usb usb-c 2.0 pd
-0
-20
-17
 PCM_marbastlib-xp-various
 nRF52840_holyiot_18010_HS
 Module containing a nRF52840 and most passives and antenna
