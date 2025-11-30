@@ -4,8 +4,8 @@
 ## Changes 
 
 - switched to the reliable JST connector.
-- replaced esd chip to the PRTR5V.
-- changed the fotprint to 0805 and SOD123.
+- replaced esd chip to the SRV05-4.
+- changed the fotprint to 0805.
 - switched to a 2 layer pcb.
 
 
